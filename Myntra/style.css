@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    width: 100%;
+    height: 10vh;
+    background-color: #ffffff;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-logo{
+    display: flex;
+    height: 53px;
+    width: 80px;
+    border: 1px solid black;
+}
+
+.logo{
+height: 53px;
+}
